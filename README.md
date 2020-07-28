@@ -4,4 +4,4 @@
 
 * Mainly used JavaScript. Will be developed.
 
-* You can reach from here --> [Matching Gamge](https://bgstatic.github.io/Matching-Game/)
+* You can reach from here --> [Matching Game](https://bgstatic.github.io/Matching-Game/)
